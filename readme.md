@@ -28,3 +28,8 @@ Do your best to make it stylish, bonus points for pretty.
 
 - [http://www.embeddedjs.com/](http://www.embeddedjs.com/)
 - [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
