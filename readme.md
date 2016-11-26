@@ -13,11 +13,13 @@ If you are unsure of where to start, the [previous lesson](https://github.com/de
 - Use EJS to create views for your RESTful routing as follows:
   - Add `ejs` configuration to `app.js`
   - Create a `views` directory
-  - Create an `index` page
-  - Create a page to create `new` quotes with a form
+  - Create an `index` page\*
+  - Create a page to create `new` quotes with a form\*
   - Display these pages with your controller
   - One partial for a footer that gets rendered on each page
   - One partial for a header that gets rendered on each page
+
+\* It may be a good idea to use Postman to POST some sample quotes to test these pages
 
 - Render forms that submit data back to our Express app to make a full-stack app
 
