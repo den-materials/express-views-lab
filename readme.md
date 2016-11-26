@@ -16,8 +16,8 @@ If you are unsure of where to start, the [previous lesson](https://github.com/de
   - Create an `index` page\*
   - Create a page to create `new` quotes with a form\*
   - Display these pages with your controller
-  - One partial for a footer that gets rendered on each page
-  - One partial for a header that gets rendered on each page
+  - Create one partial for a footer that gets rendered on each page
+  - Create one partial for a header that gets rendered on each page
 
 \* It may be a good idea to use Postman to POST some sample quotes to test these pages
 
