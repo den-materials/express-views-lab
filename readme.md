@@ -6,6 +6,8 @@ We've set you up in starter-code with an API for capturing your favorite embarra
 
 Your goal will be to convert an Express JSON API to render full HTML views. It's up to you to take it from JSON to EJS, and we haven't given you a lot to start with. This will be good practice for installing the tools you need and setting them up from scratch.
 
+If you are unsure of where to start, the [previous lesson](https://github.com/den-wdi-2/express-views-lesson) will be a helpful reference.
+
 ## Exercise
 
 - Use EJS to create views for your RESTful routing as follows:
