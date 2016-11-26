@@ -41,8 +41,8 @@ function updateQuote(request, response) {
   Quote.findById({_id: id}, function(error, quote) {
     if(error) response.json({message: 'Could not find quote b/c:' + error});
 
-    if(request.body.name) quote.name = request.body.name;
-    if(request.body.color) quote.color = request.body.color;
+    if(request.body.text) quote.text = request.body.text;
+    if(request.body.author) quote.author = request.body.author;
 
     quote.save(function(error) {
       if(error) response.json({messsage: 'Could not update quote b/c:' + error});
