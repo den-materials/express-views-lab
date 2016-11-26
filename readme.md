@@ -11,8 +11,10 @@ If you are unsure of where to start, the [previous lesson](https://github.com/de
 ## Exercise
 
 - Use EJS to create views for your RESTful routing as follows:
-  - An `index` page
-  - A page to create `new` quotes with a form
+  - Add `ejs` configuration to `app.js`
+  - Create an `index` page
+  - Create a page to create `new` quotes with a form
+  - Display these pages with your controller
   - One partial for a footer that gets rendered on each page
   - One partial for a header that gets rendered on each page
 
