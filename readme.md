@@ -27,6 +27,8 @@ If you are unsure of where to start, the [previous lesson](https://github.com/de
 
 #### Deliverable
 
+<!-- Show your version here -->
+
 Do as much as you can – the more complete the better – but at the least you should strive to create an index & a new page to POST to your create action.
 
 Do your best to make it stylish, bonus points for prettiness.  Below is an example of an `index` page and a `new` page.
