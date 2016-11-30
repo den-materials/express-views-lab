@@ -10,6 +10,8 @@ If you are unsure of where to start, the [previous lesson](https://github.com/de
 
 ## Exercise
 
+#### Requirements
+
 - Use EJS to create views for your RESTful routing as follows:
   - Add `ejs` configuration to `app.js`
   - Create a `views` directory
